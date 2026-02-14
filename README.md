@@ -55,3 +55,6 @@ Progress bar
 Session record
 
 No buttons or controls remain visible.
+
+<img width="496" height="173" alt="image" src="https://github.com/user-attachments/assets/814f3c96-50b8-4ba8-980f-9860bbe1b35e" />
+
