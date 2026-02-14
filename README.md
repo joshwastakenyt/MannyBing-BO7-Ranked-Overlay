@@ -1,4 +1,4 @@
-BO7 Ranked Overlay – Community Edition
+BO7 Ranked SR Tracker– Community Edition
 
 A clean, animated ranked overlay for Black Ops 7 Ranked Play built for OBS streamers.
 
