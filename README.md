@@ -56,5 +56,5 @@ Session record
 
 No buttons or controls remain visible.
 
-<img width="496" height="173" alt="image" src="https://github.com/user-attachments/assets/814f3c96-50b8-4ba8-980f-9860bbe1b35e" />
+<img width="551" height="299" alt="image" src="https://github.com/user-attachments/assets/e6bb829d-91de-425d-bc1f-62af633db7d2" />
 
